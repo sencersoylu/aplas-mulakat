@@ -28,7 +28,13 @@
 # Stok Yeri Sorma
 - Kullanıcı stok barkodu okutarak hangi alanda kaç adet bulunduğunu görebilmeli.
 - Kullanıcı stok kodu ve adından arama yaparak hangi alanda kaç adet bulunduğunu görebilmeli.
-#SPA
+
+------------
+
+
+#Raporlama Yönetim Paneli
+SPA olarak tasarlanmalı
+
 - Kullanıcı malzeme yerlerine göre stok listesi alabilmeli.
 - Kullanıcı yapılan sayım işlemlerini kimlerin yaptığını raporlayabilmeli.
 # Kaynak
